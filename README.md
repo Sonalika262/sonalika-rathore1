@@ -46,17 +46,16 @@ I'm a passionate **MERN Stack Developer** from Indore, India, with over 1 year o
 </p>
 
 ---
-
 ## 🚀 Projects
 
-<!-- List your favorite or featured projects here -->
-- [Project Name 1](#) – Short description of project 1.
-- [Project Name 2](#) – Short description of project 2.
-- [More Projects...](#)
 
----
+- [Personal-AI](https://github.com/sonalika-rathore/personal-ai) – An AI-powered personal assistant to automate tasks.
+- [DiceMaster](https://github.com/sonalika-rathore/dicemaster) – A fun dice rolling game built with React.
+- [More Projects...](https://github.com/sonalika-rathore?tab=repositories)  
+
 
 ## 🤝 Connect With Me
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
@@ -71,6 +70,4 @@ I'm a passionate **MERN Stack Developer** from Indore, India, with over 1 year o
 </p>
 
 ---
-
-<!-- Optionally, add a fun fact or quote -->
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
