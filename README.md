@@ -49,9 +49,9 @@ I'm a passionate **MERN Stack Developer** from Indore, India, with over 1 year o
 ## 🚀 Projects
 
 
-- [Personal-AI](https://github.com/sonalika-rathore/personal-ai) – An AI-powered personal assistant to automate tasks.
-- [DiceMaster](https://github.com/sonalika-rathore/dicemaster) – A fun dice rolling game built with React.
-- [More Projects...](https://github.com/sonalika-rathore?tab=repositories)  
+- [Personal-AI](https://github.com/sonalika262/personal-ai) – An AI-powered personal assistant to automate tasks.
+- [DiceMaster](https://github.com/sonalika262/dicemaster) – A fun dice rolling game built with React.
+- [More Projects...](https://github.com/sonalika262?tab=repositories)  
 
 
 ## 🤝 Connect With Me
